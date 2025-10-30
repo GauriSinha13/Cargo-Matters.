@@ -28,3 +28,6 @@ To customize, edit the content in index.html and adjust styles in styles.css.
 
 🤝 Contributing
 Feel free to fork this project and submit pull requests with improvements.
+
+
+I also tried vibe coding using Lovable.dev and here is the link to another design of the webpage using it https://preview--vivid-onepage-magic.lovable.app/
